@@ -1,5 +1,4 @@
-# HackRu 2017 Spring
-## Rubike
+# RUbike (HackRu 2017 Spring)
 
 ### * Inspiration
 
